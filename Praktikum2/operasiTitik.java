@@ -1,3 +1,9 @@
+/* Nama File		: operasiTitik.java
+   Tanggal Pembuatan	: 22 Februari 2023
+   Nama Praktikan   	: Safril Isnaini
+   NIM Praktikan	: 24060121130057
+   Deskripsi		: modul kelas program operasiTitik
+ */
 class OperasiTitik{
 	private void refleksiSumbuX(Titik titik){
 		double ordinat = titik.getOrdinat();
